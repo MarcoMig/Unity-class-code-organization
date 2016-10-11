@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System;
 
-public class SpriteSheet : MonoBehaviour {
+public class CodeExample : MonoBehaviour {
 
     #region FIELDS
     //Exsposing private field to the Unity editor
